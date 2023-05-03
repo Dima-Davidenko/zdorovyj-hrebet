@@ -1,0 +1,25 @@
+.services__container {
+  margin-bottom: 50px;
+}
+.services__article {
+  margin-bottom: 50px;
+}
+.services__img {
+  display: block;
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+  @media screen and (min-width: 768px) {
+    margin-right: 20px;
+  }
+}
+.services__wrapper {
+  @media screen and (min-width: 768px) {
+    display: flex;
+  }
+  @media screen and (min-width: 1200px) {
+  }
+}
+.services__title {
+  margin-bottom: 20px;
+}

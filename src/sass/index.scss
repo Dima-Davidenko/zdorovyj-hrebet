@@ -1,0 +1,12 @@
+@import '../../node_modules/swiper/swiper-bundle.css';
+.swiper-pagination-bullets {
+  bottom: -8px !important;
+}
+@import './utils/variables';
+@import './base/base';
+@import './base/container';
+@import './components/logo';
+@import './components/mob-menu';
+@import './components/header';
+@import './components/hero';
+@import './components/services';
