@@ -2,21 +2,18 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dima-Davidenko.github.io/donut-Masters",
+  "homepage": "https://Dima-Davidenko.github.io/zdorovyj-hrebet",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /donut-Masters/"
+    "build": "parcel build src/*.html --public-url /zdorovyj-hrebet/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Dima-Davidenko/zdorovyj-hrebet"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dima Davidenko",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  },
   "dependencies": {
     "modern-normalize": "^1.1.0",
     "swiper": "^9.2.4"
